@@ -62,7 +62,7 @@ cd Ready72-
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-cp .env.example .env                                  # then put your own key into .env or the the submitted API key (The API key for evaluation was submitted separately via the submission form) (not stored in this repository).”
+cp .env.example .env                                  # then put the submitted API key (The API key for evaluation was submitted separately via the submission form) (not stored in this repository).”
 streamlit run app.py
 ```
 
