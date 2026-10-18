@@ -57,7 +57,7 @@ Special care is taken for vulnerable members: children are handled by age group 
 Requirements: Python 3.10+ and an [OpenRouter](https://openrouter.ai) API key.
 
 ```bash
-git clone <this-repo-url>
+git clone <git clone https://github.com/Hakanotaskin/Ready72.git>
 cd Ready72
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
